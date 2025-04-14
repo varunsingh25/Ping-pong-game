@@ -1,0 +1,10 @@
+﻿  win32_platform.cpp
+C:\Users\Eesh\Desktop\New folder\game\My_First_Cpp_Game\renderer.cpp(57,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Eesh\Desktop\New folder\game\My_First_Cpp_Game\renderer.cpp(58,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Eesh\Desktop\New folder\game\My_First_Cpp_Game\renderer.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Eesh\Desktop\New folder\game\My_First_Cpp_Game\renderer.cpp(60,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Eesh\Desktop\New folder\game\My_First_Cpp_Game\game.cpp(142,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Eesh\Desktop\New folder\game\My_First_Cpp_Game\game.cpp(143,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Eesh\Desktop\New folder\game\My_First_Cpp_Game\game.cpp(146,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Eesh\Desktop\New folder\game\My_First_Cpp_Game\game.cpp(147,38): warning C4305: 'argument': truncation from 'double' to 'float'
+  My_First_Cpp_Game.vcxproj -> C:\Users\Eesh\Desktop\New folder\game\x64\Debug\My_First_Cpp_Game.exe
