@@ -1,4 +1,4 @@
--->🏓 Ping Pong Game<-
+-->🏓 Ping Pong Game<--
 
 A classic game built by Team Tech Titan
 
